@@ -14,6 +14,8 @@ public class PlayerInput : MonoBehaviour
     // Idle timer variables
     [SerializeField]
     float mIdleTime;
+
+	[SerializeField]
     float mTimer;
 
     Vector3 mDefaultScale;
@@ -39,6 +41,7 @@ public class PlayerInput : MonoBehaviour
         // Check if there is movement
         if(!Mathf.Approximately(vertical, 0.0f) || !Mathf.Approximately(horizontal, 0.0f))
         {
+			// Find current direction
             Vector3 direction = new Vector3(horizontal, 0.0f, vertical);
 
             // Cap the magnitude of direction vector
@@ -47,15 +50,19 @@ public class PlayerInput : MonoBehaviour
             // Translate the game object in world space
             transform.Translate (direction * mSpeed * Time.deltaTime, Space.World);
 
+            // TODO how?
             // Rotate the game object
             transform.rotation = Quaternion.RotateTowards(transform.rotation, Quaternion.LookRotation(direction), mAngularSpeed * Time.deltaTime);
 
-            // Reset idle timer to zero
+            // There is a movement, so reset idle timer to zero
             mTimer = 0.0f;
             transform.localScale = mDefaultScale;
         }
     }
 
+    /// <summary>
+    /// If the player stops too long
+    /// </summary>
     private void SimpleIdleAnimation()
     {
         mTimer += Time.deltaTime;
