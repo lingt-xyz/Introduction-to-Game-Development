@@ -33,8 +33,8 @@ public class Mario : MonoBehaviour
         // Get references to other components and game objects
         mAnimator = GetComponent<Animator>();
         mRigidBody2D = GetComponent<Rigidbody2D>();
-        mSpriteChild = transform.FindChild ("MarioSprite");
-        mGroundCheck = transform.FindChild ("GroundCheck");
+        mSpriteChild = transform.Find ("MarioSprite");
+        mGroundCheck = transform.Find ("GroundCheck");
     }
 
     void Update ()
