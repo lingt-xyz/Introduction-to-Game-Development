@@ -33,8 +33,8 @@ public class Mario : MonoBehaviour
         // Get references to other components and game objects
         mAnimator = GetComponent<Animator>();
         mRigidBody2D = GetComponent<Rigidbody2D>();
-        mSpriteChild = transform.FindChild ("MarioSprite");
-        mGroundCheck = transform.FindChild ("GroundCheck");
+        mSpriteChild = transform.Find ("MarioSprite");
+        mGroundCheck = transform.Find ("GroundCheck");
     }
 
     void Update ()
@@ -74,7 +74,7 @@ public class Mario : MonoBehaviour
         //       and set the value of "mRunning" accordingly
 	
 
-// Check if we are running or not
+		// Check if we are running or not
         if(Input.GetButtonDown ("Run"))
         {
             mRunning = true;
@@ -84,7 +84,7 @@ public class Mario : MonoBehaviour
             mRunning = false;
         }
 
-// Determine movement speed
+		// Determine movement speed
         float moveSpeed = mRunning ? mRunSpeed : mWalkSpeed;
 
         // Check for movement
@@ -104,45 +104,20 @@ public class Mario : MonoBehaviour
             mMoving = true;
         }
 
-// Check if we can jump
-        if(!mJumping && Input.GetButtonDown ("Jump"))
+		// Check if we can jump
+        if(mJumping)
         {
             mRigidBody2D.AddForce(Vector2.up * mJumpForce);
         }
 
-
-        // TODO: Make Mario move when the player presses Left or Right!
-        //       Also, move Mario walk/run at the appropriate speed.
-        //       Use the variables "mWalkSpeed" and "mRunSpeed"!
-        //       Don't forget to flip Mario when necessary (use the FaceDirection() function)
-
-		/*
-		if (mMoving){
-			if (move > 0){
-				FaceDirection(Vector2.right);
-				if (mRunning){
-					transform.Translate(Vector2.right * mRunSpeed * Time.deltaTime, Space.World);
-				} else {
-					transform.Translate(Vector2.right * mWalkSpeed * Time.deltaTime, Space.World);
-				}
-			}
-			else {
-				FaceDirection(-Vector2.right);
-				if (mRunning){
-					transform.Translate(-Vector2.right * mRunSpeed * Time.deltaTime, Space.World);
-				} else {
-					transform.Translate(-Vector2.right * mWalkSpeed * Time.deltaTime, Space.World);
-				}
-			}
-		}
-        // TODO: If Mario is on the ground, allow him to jump!
-        //       Make use of the "mGrounded" variable, whose value is being changed by the CheckGrounded() function
-		if (Input.GetKeyDown(KeyCode.Space)){
+		// TODO: If Mario is on the ground, allow him to jump!
+		//       Make use of the "mGrounded" variable, whose value is being changed by the CheckGrounded() function
+		if (Input.GetButtonDown ("Jump") && mGrounded){
 			mJumping = true;
 		} else {
 			mJumping = false;
 		}
-		*/
+
     }
 
     private void CheckFalling()
