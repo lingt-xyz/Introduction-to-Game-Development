@@ -119,6 +119,9 @@ public class MegaMan : MonoBehaviour
     {
         // TODO: Instantiate the particle effects "mDeathParticleEmitter"
         //       and destroy the "Mega Man" game object
+        var deathParticleEmitter = Instantiate(mDeathParticleEmitter, this.transform.position, this.transform.rotation);
+        deathParticleEmitter.SetActive(true);
+        Destroy(gameObject);
     }
 
     public void TakeDamage(int dmg)

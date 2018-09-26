@@ -39,14 +39,14 @@ public class LifeMeter : MonoBehaviour
     {
         for(int i = 0; i < x; i++)
         {
-            mFilled[mIndex].enabled = false;
-            mIndex--;
             if(mIndex < 0)
             {
                 // Kill Megaman
                 mMegaMan.Die ();
                 break;
             }
+            mFilled[mIndex].enabled = false;
+            mIndex--;
         }
     }
 }

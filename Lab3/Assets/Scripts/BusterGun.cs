@@ -38,7 +38,7 @@ public class BusterGun : MonoBehaviour
             //       Instantiate it and get a reference of its Bullet Component.
             //       You're going to need it ;)
             var bullet = Instantiate(mBulletPrefab, transform.position, transform.rotation).GetComponent<Bullet>();
-
+            bullet.name = mBulletPrefab.name;
             // TODO: Set the direction of the bullet
             //       Use the SetDirection() function from the Bullet class
             bullet.SetDirection(mMegaManRef.GetFacingDirection());
