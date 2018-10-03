@@ -1,0 +1,1276 @@
+fileFormatVersion: 2
+guid: fbe1d09912331db4f95c7224f3248815
+timeCreated: 1431326293
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: MegaMan1_8
+    21300002: MegaMan1_9
+    21300004: MegaMan1_10
+    21300006: MegaMan1_11
+    21300008: MegaMan1_12
+    21300010: MegaMan1_13
+    21300012: MegaMan1_14
+    21300014: MegaMan1_15
+    21300016: MegaMan1_16
+    21300018: MegaMan1_17
+    21300020: MegaMan1_18
+    21300022: MegaMan1_19
+    21300024: MegaMan1_20
+    21300026: MegaMan1_21
+    21300028: MegaMan1_22
+    21300030: MegaMan1_23
+    21300032: MegaMan1_24
+    21300034: MegaMan1_25
+    21300036: MegaMan1_26
+    21300038: MegaMan1_27
+    21300040: MegaMan1_28
+    21300042: MegaMan1_29
+    21300044: MegaMan1_30
+    21300046: MegaMan1_31
+    21300048: MegaMan1_32
+    21300050: MegaMan1_33
+    21300052: MegaMan1_34
+    21300054: MegaMan1_35
+    21300056: MegaMan1_36
+    21300058: MegaMan1_37
+    21300060: MegaMan1_38
+    21300062: MegaMan1_39
+    21300064: MegaMan1_40
+    21300066: MegaMan1_41
+    21300068: MegaMan1_42
+    21300070: MegaMan1_43
+    21300072: MegaMan1_44
+    21300074: MegaMan1_45
+    21300076: MegaMan1_46
+    21300078: MegaMan1_47
+    21300080: MegaMan1_48
+    21300082: MegaMan1_49
+    21300084: MegaMan1_50
+    21300086: MegaMan1_51
+    21300088: MegaMan1_52
+    21300090: MegaMan1_53
+    21300092: MegaMan1_54
+    21300094: MegaMan1_55
+    21300096: MegaMan1_56
+    21300098: MegaMan1_57
+    21300100: MegaMan1_58
+    21300102: MegaMan1_59
+    21300104: MegaMan1_60
+    21300106: MegaMan1_61
+    21300108: MegaMan1_62
+    21300110: MegaMan1_63
+    21300112: MegaMan1_64
+    21300114: MegaMan1_65
+    21300116: MegaMan1_66
+    21300118: MegaMan1_67
+    21300120: MegaMan1_68
+    21300122: MegaMan1_69
+    21300124: MegaMan1_70
+    21300126: MegaMan1_71
+    21300128: MegaMan1_72
+    21300130: MegaMan1_73
+    21300132: MegaMan1_74
+    21300134: MegaMan1_75
+    21300136: MegaMan1_84
+    21300138: MegaMan1_85
+    21300140: MegaMan1_86
+    21300142: MegaMan1_87
+    21300144: MegaMan1_88
+    21300146: MegaMan1_89
+    21300148: MegaMan1_90
+    21300150: MegaMan1_91
+    21300152: MegaMan1_92
+    21300154: MegaMan1_93
+    21300156: MegaMan1_94
+    21300158: MegaMan1_95
+    21300160: MegaMan1_96
+    21300162: MegaMan1_97
+    21300164: MegaMan1_98
+    21300166: MegaMan1_99
+    21300168: MegaMan1_100
+    21300170: MegaMan1_101
+    21300172: MegaMan1_102
+    21300174: MegaMan1_103
+    21300176: MegaMan1_104
+    21300178: MegaMan1_105
+    21300180: MegaMan1_106
+    21300182: MegaMan1_107
+    21300184: MegaMan1_108
+    21300186: MegaMan1_109
+    21300188: MegaMan1_110
+    21300190: MegaMan1_111
+    21300192: MegaMan1_112
+    21300194: MegaMan1_113
+    21300196: MegaMan1_114
+    21300198: MegaMan1_115
+    21300200: MegaMan1_116
+    21300202: MegaMan1_117
+    21300204: MegaMan1_118
+    21300206: MegaMan1_122
+    21300208: MegaMan1_123
+    21300210: MegaMan1_124
+    21300212: MegaMan1_125
+    21300214: MegaMan1_126
+    21300216: MegaMan1_127
+    21300218: MegaMan1_128
+    21300220: MegaMan1_131
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: MegaMan1_8
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 306
+        width: 8
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaMan1_9
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 306
+        width: 22
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaMan1_10
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 306
+        width: 30
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaMan1_11
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 306
+        width: 30
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaMan1_12
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 306
+        width: 30
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaMan1_13
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 306
+        width: 30
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaMan1_14
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 306
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaMan1_15
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 306
+        width: 30
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaMan1_16
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 306
+        width: 30
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaMan1_17
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 306
+        width: 30
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaMan1_18
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 306
+        width: 30
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaMan1_19
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 306
+        width: 30
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaMan1_20
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 306
+        width: 29
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaMan1_21
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 268
+        width: 30
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaMan1_22
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 268
+        width: 20
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaMan1_23
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 267
+        width: 23
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaMan1_24
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 267
+        width: 32
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaMan1_25
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 268
+        width: 34
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaMan1_26
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 268
+        width: 26
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaMan1_27
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 268
+        width: 22
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaMan1_28
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 267
+        width: 25
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaMan1_29
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 268
+        width: 30
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaMan1_30
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 268
+        width: 34
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaMan1_31
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 268
+        width: 29
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaMan1_32
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 228
+        width: 29
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaMan1_33
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 227
+        width: 32
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaMan1_34
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 227
+        width: 35
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaMan1_35
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 228
+        width: 38
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaMan1_36
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 228
+        width: 34
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaMan1_37
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 228
+        width: 31
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaMan1_38
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 227
+        width: 33
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaMan1_39
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 228
+        width: 35
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaMan1_40
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 228
+        width: 37
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaMan1_41
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 228
+        width: 35
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaMan1_42
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 184
+        width: 24
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaMan1_43
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 180
+        width: 15
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaMan1_44
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 177
+        width: 19
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaMan1_45
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 178
+        width: 23
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaMan1_46
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 177
+        width: 27
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaMan1_47
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 180
+        width: 24
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaMan1_48
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 184
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaMan1_49
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 184
+        width: 29
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaMan1_50
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 180
+        width: 24
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaMan1_51
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 177
+        width: 27
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaMan1_52
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 178
+        width: 31
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaMan1_53
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 177
+        width: 31
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaMan1_54
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 180
+        width: 30
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaMan1_55
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 184
+        width: 36
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaMan1_56
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 206
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaMan1_57
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 191
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaMan1_58
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 179
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaMan1_59
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 174
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaMan1_60
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 130
+        width: 25
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaMan1_61
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 130
+        width: 27
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaMan1_62
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 131
+        width: 28
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaMan1_63
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 131
+        width: 30
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaMan1_64
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 130
+        width: 27
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaMan1_65
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 130
+        width: 32
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaMan1_66
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 131
+        width: 32
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaMan1_67
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 130
+        width: 25
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaMan1_68
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 169
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaMan1_69
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 130
+        width: 31
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaMan1_70
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 131
+        width: 31
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaMan1_71
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 130
+        width: 32
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaMan1_72
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 130
+        width: 31
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaMan1_73
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 153
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaMan1_74
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 146
+        width: 7
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaMan1_75
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 131
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaMan1_84
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 122
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaMan1_85
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 117
+        width: 7
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaMan1_86
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 68
+        width: 28
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaMan1_87
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 68
+        width: 29
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaMan1_88
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 100
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaMan1_89
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 68
+        width: 29
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaMan1_90
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 68
+        width: 31
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaMan1_91
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 109
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaMan1_92
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 59
+        width: 18
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaMan1_93
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 59
+        width: 18
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaMan1_94
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 60
+        width: 26
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaMan1_95
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 104
+        width: 7
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaMan1_96
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 66
+        width: 21
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaMan1_97
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 63
+        width: 20
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaMan1_98
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 63
+        width: 20
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaMan1_99
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 95
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaMan1_100
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 56
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaMan1_101
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 61
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaMan1_102
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 68
+        width: 35
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaMan1_103
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 86
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaMan1_104
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 45
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaMan1_105
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 45
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaMan1_106
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 45
+        width: 22
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaMan1_107
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 45
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaMan1_108
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 45
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaMan1_109
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 45
+        width: 22
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaMan1_110
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 3
+        width: 28
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaMan1_111
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 3
+        width: 37
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaMan1_112
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 3
+        width: 30
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaMan1_113
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 3
+        width: 30
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaMan1_114
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 3
+        width: 30
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaMan1_115
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 3
+        width: 30
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaMan1_116
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 3
+        width: 30
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaMan1_117
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 3
+        width: 26
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaMan1_118
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 3
+        width: 26
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaMan1_122
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 2
+        width: 38
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaMan1_123
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 2
+        width: 48
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaMan1_124
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 19
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaMan1_125
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 18
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaMan1_126
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 18
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaMan1_127
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 17
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaMan1_128
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 15
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaMan1_131
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 5
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,1837 @@
+fileFormatVersion: 2
+guid: 239185650c18e1244a57966464d5ce6d
+timeCreated: 1430865316
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Pipes_0
+    21300002: Pipes_1
+    21300004: Pipes_2
+    21300006: Pipes_3
+    21300008: Pipes_4
+    21300010: Pipes_5
+    21300012: Pipes_6
+    21300014: Pipes_7
+    21300016: Pipes_8
+    21300018: Pipes_9
+    21300020: Pipes_10
+    21300022: Pipes_11
+    21300024: Pipes_12
+    21300026: Pipes_13
+    21300028: Pipes_14
+    21300030: Pipes_15
+    21300032: Pipes_16
+    21300034: Pipes_17
+    21300036: Pipes_18
+    21300038: Pipes_19
+    21300040: Pipes_20
+    21300042: Pipes_21
+    21300044: Pipes_22
+    21300046: Pipes_23
+    21300048: Pipes_24
+    21300050: Pipes_25
+    21300052: Pipes_26
+    21300054: Pipes_27
+    21300056: Pipes_28
+    21300058: Pipes_29
+    21300060: Pipes_30
+    21300062: Pipes_31
+    21300064: Pipes_32
+    21300066: Pipes_33
+    21300068: Pipes_34
+    21300070: Pipes_35
+    21300072: Pipes_36
+    21300074: Pipes_37
+    21300076: Pipes_38
+    21300078: Pipes_39
+    21300080: Pipes_40
+    21300082: Pipes_41
+    21300084: Pipes_42
+    21300086: Pipes_43
+    21300088: Pipes_44
+    21300090: Pipes_45
+    21300092: Pipes_46
+    21300094: Pipes_47
+    21300096: Pipes_48
+    21300098: Pipes_49
+    21300100: Pipes_50
+    21300102: Pipes_51
+    21300104: Pipes_52
+    21300106: Pipes_53
+    21300108: Pipes_54
+    21300110: Pipes_55
+    21300112: Pipes_56
+    21300114: Pipes_57
+    21300116: Pipes_58
+    21300118: Pipes_59
+    21300120: Pipes_60
+    21300122: Pipes_61
+    21300124: Pipes_62
+    21300126: Pipes_63
+    21300128: Pipes_64
+    21300130: Pipes_65
+    21300132: Pipes_66
+    21300134: Pipes_67
+    21300136: Pipes_68
+    21300138: Pipes_69
+    21300140: Pipes_70
+    21300142: Pipes_71
+    21300144: Pipes_72
+    21300146: Pipes_73
+    21300148: Pipes_74
+    21300150: Pipes_75
+    21300152: Pipes_76
+    21300154: Pipes_77
+    21300156: Pipes_78
+    21300158: Pipes_79
+    21300160: Pipes_80
+    21300162: Pipes_81
+    21300164: Pipes_82
+    21300166: Pipes_83
+    21300168: Pipes_84
+    21300170: Pipes_85
+    21300172: Pipes_86
+    21300174: Pipes_87
+    21300176: Pipes_88
+    21300178: Pipes_89
+    21300180: Pipes_90
+    21300182: Pipes_91
+    21300184: Pipes_92
+    21300186: Pipes_93
+    21300188: Pipes_94
+    21300190: Pipes_95
+    21300192: Pipes_96
+    21300194: Pipes_97
+    21300196: Pipes_98
+    21300198: Pipes_99
+    21300200: Pipes_100
+    21300202: Pipes_101
+    21300204: Pipes_102
+    21300206: Pipes_103
+    21300208: Pipes_104
+    21300210: Pipes_105
+    21300212: Pipes_106
+    21300214: Pipes_107
+    21300216: Pipes_108
+    21300218: Pipes_109
+    21300220: Pipes_110
+    21300222: Pipes_111
+    21300224: Pipes_112
+    21300226: Pipes_113
+    21300228: Pipes_114
+    21300230: Pipes_115
+    21300232: Pipes_116
+    21300234: Pipes_117
+    21300236: Pipes_118
+    21300238: Pipes_119
+    21300240: Pipes_120
+    21300242: Pipes_121
+    21300244: Pipes_122
+    21300246: Pipes_123
+    21300248: Pipes_124
+    21300250: Pipes_125
+    21300252: Pipes_126
+    21300254: Pipes_127
+    21300256: Pipes_128
+    21300258: Pipes_129
+    21300260: Pipes_130
+    21300262: Pipes_131
+    21300264: Pipes_132
+    21300266: Pipes_133
+    21300268: Pipes_134
+    21300270: Pipes_135
+    21300272: Pipes_136
+    21300274: Pipes_137
+    21300276: Pipes_138
+    21300278: Pipes_139
+    21300280: Pipes_140
+    21300282: Pipes_141
+    21300284: Pipes_142
+    21300286: Pipes_143
+    21300288: Pipes_144
+    21300290: Pipes_145
+    21300292: Pipes_146
+    21300294: Pipes_147
+    21300296: Pipes_148
+    21300298: Pipes_149
+    21300300: Pipes_150
+    21300302: Pipes_151
+    21300304: Pipes_152
+    21300306: Pipes_153
+    21300308: Pipes_154
+    21300310: Pipes_155
+    21300312: Pipes_156
+    21300314: Pipes_157
+    21300316: Pipes_158
+    21300318: Pipes_159
+    21300320: Pipes_160
+    21300322: Pipes_161
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Pipes_0
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 202
+        width: 275
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pipes_1
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 175
+        width: 86
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pipes_2
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 140
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pipes_3
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 141
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pipes_4
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 140
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pipes_5
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 140
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pipes_6
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 141
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pipes_7
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 140
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pipes_8
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 142
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pipes_9
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 142
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pipes_10
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 142
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pipes_11
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 142
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pipes_12
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 142
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pipes_13
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 158
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pipes_14
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 159
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pipes_15
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 158
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pipes_16
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 158
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pipes_17
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 158
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pipes_18
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 158
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pipes_19
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 158
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pipes_20
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 158
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pipes_21
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 158
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pipes_22
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 158
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pipes_23
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 158
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pipes_24
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 158
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pipes_25
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 158
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pipes_26
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 141
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pipes_27
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 142
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pipes_28
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 141
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pipes_29
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 141
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pipes_30
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 141
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pipes_31
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 141
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pipes_32
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 141
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pipes_33
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 141
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pipes_34
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 141
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pipes_35
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 141
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pipes_36
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 124
+        width: 16
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pipes_37
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 141
+        width: 7
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pipes_38
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 141
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pipes_39
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 141
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pipes_40
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 106
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pipes_41
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 107
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pipes_42
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 106
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pipes_43
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 106
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pipes_44
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 107
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pipes_45
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 106
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pipes_46
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 124
+        width: 30
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pipes_47
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 124
+        width: 30
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pipes_48
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 124
+        width: 30
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pipes_49
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 124
+        width: 30
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pipes_50
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 124
+        width: 30
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pipes_51
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 124
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pipes_52
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 125
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pipes_53
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 124
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pipes_54
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 124
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pipes_55
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 124
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pipes_56
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 124
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pipes_57
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 124
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pipes_58
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 124
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pipes_59
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 124
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pipes_60
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 124
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pipes_61
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 124
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pipes_62
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 124
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pipes_63
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 90
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pipes_64
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 90
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pipes_65
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 90
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pipes_66
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 90
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pipes_67
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 90
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pipes_68
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 107
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pipes_69
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 108
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pipes_70
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 107
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pipes_71
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 88
+        width: 6
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pipes_72
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 73
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pipes_73
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 74
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pipes_74
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 73
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pipes_75
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 73
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pipes_76
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 74
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pipes_77
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 73
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pipes_78
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 90
+        width: 33
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pipes_79
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 96
+        width: 16
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pipes_80
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 90
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pipes_81
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 57
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pipes_82
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 57
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pipes_83
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 57
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pipes_84
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 57
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pipes_85
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 57
+        width: 48
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pipes_86
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 74
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pipes_87
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 73
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pipes_88
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 39
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pipes_89
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 40
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pipes_90
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 39
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pipes_91
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 39
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pipes_92
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 40
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pipes_93
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 39
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pipes_94
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 57
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pipes_95
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 56
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pipes_96
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 39
+        width: 30
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pipes_97
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 39
+        width: 30
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pipes_98
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 39
+        width: 30
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pipes_99
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 39
+        width: 30
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pipes_100
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 39
+        width: 30
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pipes_101
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 39
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pipes_102
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 40
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pipes_103
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 39
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pipes_104
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 6
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pipes_105
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 7
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pipes_106
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 6
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pipes_107
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 6
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pipes_108
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 7
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pipes_109
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 6
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pipes_110
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 5
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pipes_111
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 5
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pipes_112
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 5
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pipes_113
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 5
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pipes_114
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 22
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pipes_115
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 23
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pipes_116
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 22
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pipes_117
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 23
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pipes_118
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 23
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pipes_119
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 23
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pipes_120
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 23
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pipes_121
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 23
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pipes_122
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 23
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pipes_123
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 23
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pipes_124
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 23
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pipes_125
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 23
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pipes_126
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 23
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pipes_127
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 23
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pipes_128
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 23
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pipes_129
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 23
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pipes_130
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 23
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pipes_131
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 23
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pipes_132
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 23
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pipes_133
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 23
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pipes_134
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 23
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pipes_135
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 23
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pipes_136
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 23
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pipes_137
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 6
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pipes_138
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 5
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pipes_139
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 14
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pipes_140
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 14
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pipes_141
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 14
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pipes_142
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 14
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pipes_143
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 14
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pipes_144
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 14
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pipes_145
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 14
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pipes_146
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 14
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pipes_147
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 14
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pipes_148
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 14
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pipes_149
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 14
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pipes_150
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 14
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pipes_151
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 14
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pipes_152
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 14
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pipes_153
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 14
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pipes_154
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 14
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pipes_155
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 14
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pipes_156
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 14
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pipes_157
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 5
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pipes_158
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 5
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pipes_159
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 5
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pipes_160
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 5
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pipes_161
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 5
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,3828 @@
+fileFormatVersion: 2
+guid: 66ae81a851157cd4eb24d4b55489bbb1
+timeCreated: 1431337215
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: MegaManProjectiles_0
+    21300002: MegaManProjectiles_1
+    21300004: MegaManProjectiles_2
+    21300006: MegaManProjectiles_3
+    21300008: MegaManProjectiles_4
+    21300010: MegaManProjectiles_5
+    21300012: MegaManProjectiles_6
+    21300014: MegaManProjectiles_7
+    21300016: MegaManProjectiles_8
+    21300018: MegaManProjectiles_9
+    21300020: MegaManProjectiles_10
+    21300022: MegaManProjectiles_11
+    21300024: MegaManProjectiles_12
+    21300026: MegaManProjectiles_13
+    21300028: MegaManProjectiles_14
+    21300030: MegaManProjectiles_15
+    21300032: MegaManProjectiles_16
+    21300034: MegaManProjectiles_17
+    21300036: MegaManProjectiles_18
+    21300038: MegaManProjectiles_19
+    21300040: MegaManProjectiles_20
+    21300042: MegaManProjectiles_21
+    21300044: MegaManProjectiles_22
+    21300046: MegaManProjectiles_23
+    21300048: MegaManProjectiles_24
+    21300050: MegaManProjectiles_25
+    21300052: MegaManProjectiles_26
+    21300054: MegaManProjectiles_27
+    21300056: MegaManProjectiles_28
+    21300058: MegaManProjectiles_29
+    21300060: MegaManProjectiles_30
+    21300062: MegaManProjectiles_31
+    21300064: MegaManProjectiles_32
+    21300066: MegaManProjectiles_33
+    21300068: MegaManProjectiles_34
+    21300070: MegaManProjectiles_35
+    21300072: MegaManProjectiles_36
+    21300074: MegaManProjectiles_37
+    21300076: MegaManProjectiles_38
+    21300078: MegaManProjectiles_39
+    21300080: MegaManProjectiles_40
+    21300082: MegaManProjectiles_41
+    21300084: MegaManProjectiles_42
+    21300086: MegaManProjectiles_43
+    21300088: MegaManProjectiles_44
+    21300090: MegaManProjectiles_45
+    21300092: MegaManProjectiles_46
+    21300094: MegaManProjectiles_47
+    21300096: MegaManProjectiles_48
+    21300098: MegaManProjectiles_49
+    21300100: MegaManProjectiles_50
+    21300102: MegaManProjectiles_51
+    21300104: MegaManProjectiles_52
+    21300106: MegaManProjectiles_53
+    21300108: MegaManProjectiles_54
+    21300110: MegaManProjectiles_55
+    21300112: MegaManProjectiles_56
+    21300114: MegaManProjectiles_57
+    21300116: MegaManProjectiles_58
+    21300118: MegaManProjectiles_59
+    21300120: MegaManProjectiles_60
+    21300122: MegaManProjectiles_61
+    21300124: MegaManProjectiles_62
+    21300126: MegaManProjectiles_63
+    21300128: MegaManProjectiles_64
+    21300130: MegaManProjectiles_65
+    21300132: MegaManProjectiles_66
+    21300134: MegaManProjectiles_67
+    21300136: MegaManProjectiles_68
+    21300138: MegaManProjectiles_69
+    21300140: MegaManProjectiles_70
+    21300142: MegaManProjectiles_71
+    21300144: MegaManProjectiles_72
+    21300146: MegaManProjectiles_73
+    21300148: MegaManProjectiles_74
+    21300150: MegaManProjectiles_75
+    21300152: MegaManProjectiles_76
+    21300154: MegaManProjectiles_77
+    21300156: MegaManProjectiles_78
+    21300158: MegaManProjectiles_79
+    21300160: MegaManProjectiles_80
+    21300162: MegaManProjectiles_81
+    21300164: MegaManProjectiles_82
+    21300166: MegaManProjectiles_83
+    21300168: MegaManProjectiles_84
+    21300170: MegaManProjectiles_85
+    21300172: MegaManProjectiles_86
+    21300174: MegaManProjectiles_87
+    21300176: MegaManProjectiles_88
+    21300178: MegaManProjectiles_89
+    21300180: MegaManProjectiles_90
+    21300182: MegaManProjectiles_91
+    21300184: MegaManProjectiles_92
+    21300186: MegaManProjectiles_93
+    21300188: MegaManProjectiles_94
+    21300190: MegaManProjectiles_95
+    21300192: MegaManProjectiles_96
+    21300194: MegaManProjectiles_97
+    21300196: MegaManProjectiles_98
+    21300198: MegaManProjectiles_99
+    21300200: MegaManProjectiles_100
+    21300202: MegaManProjectiles_101
+    21300204: MegaManProjectiles_102
+    21300206: MegaManProjectiles_103
+    21300208: MegaManProjectiles_104
+    21300210: MegaManProjectiles_105
+    21300212: MegaManProjectiles_106
+    21300214: MegaManProjectiles_107
+    21300216: MegaManProjectiles_108
+    21300218: MegaManProjectiles_109
+    21300220: MegaManProjectiles_110
+    21300222: MegaManProjectiles_111
+    21300224: MegaManProjectiles_112
+    21300226: MegaManProjectiles_113
+    21300228: MegaManProjectiles_114
+    21300230: MegaManProjectiles_115
+    21300232: MegaManProjectiles_116
+    21300234: MegaManProjectiles_117
+    21300236: MegaManProjectiles_118
+    21300238: MegaManProjectiles_119
+    21300240: MegaManProjectiles_120
+    21300242: MegaManProjectiles_121
+    21300244: MegaManProjectiles_122
+    21300246: MegaManProjectiles_123
+    21300248: MegaManProjectiles_124
+    21300250: MegaManProjectiles_125
+    21300252: MegaManProjectiles_126
+    21300254: MegaManProjectiles_127
+    21300256: MegaManProjectiles_128
+    21300258: MegaManProjectiles_129
+    21300260: MegaManProjectiles_130
+    21300262: MegaManProjectiles_131
+    21300264: MegaManProjectiles_132
+    21300266: MegaManProjectiles_133
+    21300268: MegaManProjectiles_134
+    21300270: MegaManProjectiles_135
+    21300272: MegaManProjectiles_136
+    21300274: MegaManProjectiles_137
+    21300276: MegaManProjectiles_138
+    21300278: MegaManProjectiles_139
+    21300280: MegaManProjectiles_140
+    21300282: MegaManProjectiles_141
+    21300284: MegaManProjectiles_142
+    21300286: MegaManProjectiles_143
+    21300288: MegaManProjectiles_144
+    21300290: MegaManProjectiles_145
+    21300292: MegaManProjectiles_146
+    21300294: MegaManProjectiles_147
+    21300296: MegaManProjectiles_148
+    21300298: MegaManProjectiles_149
+    21300300: MegaManProjectiles_150
+    21300302: MegaManProjectiles_151
+    21300304: MegaManProjectiles_152
+    21300306: MegaManProjectiles_153
+    21300308: MegaManProjectiles_154
+    21300310: MegaManProjectiles_155
+    21300312: MegaManProjectiles_156
+    21300314: MegaManProjectiles_157
+    21300316: MegaManProjectiles_158
+    21300318: MegaManProjectiles_159
+    21300320: MegaManProjectiles_160
+    21300322: MegaManProjectiles_161
+    21300324: MegaManProjectiles_162
+    21300326: MegaManProjectiles_163
+    21300328: MegaManProjectiles_164
+    21300330: MegaManProjectiles_165
+    21300332: MegaManProjectiles_166
+    21300334: MegaManProjectiles_167
+    21300336: MegaManProjectiles_168
+    21300338: MegaManProjectiles_169
+    21300340: MegaManProjectiles_170
+    21300342: MegaManProjectiles_171
+    21300344: MegaManProjectiles_172
+    21300346: MegaManProjectiles_173
+    21300348: MegaManProjectiles_174
+    21300350: MegaManProjectiles_175
+    21300352: MegaManProjectiles_176
+    21300354: MegaManProjectiles_177
+    21300356: MegaManProjectiles_178
+    21300358: MegaManProjectiles_179
+    21300360: MegaManProjectiles_180
+    21300362: MegaManProjectiles_181
+    21300364: MegaManProjectiles_182
+    21300366: MegaManProjectiles_183
+    21300368: MegaManProjectiles_184
+    21300370: MegaManProjectiles_185
+    21300372: MegaManProjectiles_186
+    21300374: MegaManProjectiles_187
+    21300376: MegaManProjectiles_188
+    21300378: MegaManProjectiles_189
+    21300380: MegaManProjectiles_190
+    21300382: MegaManProjectiles_191
+    21300384: MegaManProjectiles_192
+    21300386: MegaManProjectiles_193
+    21300388: MegaManProjectiles_194
+    21300390: MegaManProjectiles_195
+    21300392: MegaManProjectiles_196
+    21300394: MegaManProjectiles_197
+    21300396: MegaManProjectiles_198
+    21300398: MegaManProjectiles_199
+    21300400: MegaManProjectiles_200
+    21300402: MegaManProjectiles_201
+    21300404: MegaManProjectiles_202
+    21300406: MegaManProjectiles_203
+    21300408: MegaManProjectiles_204
+    21300410: MegaManProjectiles_205
+    21300412: MegaManProjectiles_206
+    21300414: MegaManProjectiles_207
+    21300416: MegaManProjectiles_208
+    21300418: MegaManProjectiles_209
+    21300420: MegaManProjectiles_210
+    21300422: MegaManProjectiles_211
+    21300424: MegaManProjectiles_212
+    21300426: MegaManProjectiles_213
+    21300428: MegaManProjectiles_214
+    21300430: MegaManProjectiles_215
+    21300432: MegaManProjectiles_216
+    21300434: MegaManProjectiles_217
+    21300436: MegaManProjectiles_218
+    21300438: MegaManProjectiles_219
+    21300440: MegaManProjectiles_220
+    21300442: MegaManProjectiles_221
+    21300444: MegaManProjectiles_222
+    21300446: MegaManProjectiles_223
+    21300448: MegaManProjectiles_224
+    21300450: MegaManProjectiles_225
+    21300452: MegaManProjectiles_226
+    21300454: MegaManProjectiles_227
+    21300456: MegaManProjectiles_228
+    21300458: MegaManProjectiles_229
+    21300460: MegaManProjectiles_230
+    21300462: MegaManProjectiles_231
+    21300464: MegaManProjectiles_232
+    21300466: MegaManProjectiles_233
+    21300468: MegaManProjectiles_234
+    21300470: MegaManProjectiles_235
+    21300472: MegaManProjectiles_236
+    21300474: MegaManProjectiles_237
+    21300476: MegaManProjectiles_238
+    21300478: MegaManProjectiles_239
+    21300480: MegaManProjectiles_240
+    21300482: MegaManProjectiles_241
+    21300484: MegaManProjectiles_242
+    21300486: MegaManProjectiles_243
+    21300488: MegaManProjectiles_244
+    21300490: MegaManProjectiles_245
+    21300492: MegaManProjectiles_246
+    21300494: MegaManProjectiles_247
+    21300496: MegaManProjectiles_248
+    21300498: MegaManProjectiles_249
+    21300500: MegaManProjectiles_250
+    21300502: MegaManProjectiles_251
+    21300504: MegaManProjectiles_252
+    21300506: MegaManProjectiles_253
+    21300508: MegaManProjectiles_254
+    21300510: MegaManProjectiles_255
+    21300512: MegaManProjectiles_256
+    21300514: MegaManProjectiles_257
+    21300516: MegaManProjectiles_258
+    21300518: MegaManProjectiles_259
+    21300520: MegaManProjectiles_260
+    21300522: MegaManProjectiles_261
+    21300524: MegaManProjectiles_262
+    21300526: MegaManProjectiles_263
+    21300528: MegaManProjectiles_264
+    21300530: MegaManProjectiles_265
+    21300532: MegaManProjectiles_266
+    21300534: MegaManProjectiles_267
+    21300536: MegaManProjectiles_268
+    21300538: MegaManProjectiles_269
+    21300540: MegaManProjectiles_270
+    21300542: MegaManProjectiles_271
+    21300544: MegaManProjectiles_272
+    21300546: MegaManProjectiles_273
+    21300548: MegaManProjectiles_274
+    21300550: MegaManProjectiles_275
+    21300552: MegaManProjectiles_276
+    21300554: MegaManProjectiles_277
+    21300556: MegaManProjectiles_278
+    21300558: MegaManProjectiles_279
+    21300560: MegaManProjectiles_280
+    21300562: MegaManProjectiles_281
+    21300564: MegaManProjectiles_282
+    21300566: MegaManProjectiles_283
+    21300568: MegaManProjectiles_284
+    21300570: MegaManProjectiles_285
+    21300572: MegaManProjectiles_286
+    21300574: MegaManProjectiles_287
+    21300576: MegaManProjectiles_288
+    21300578: MegaManProjectiles_289
+    21300580: MegaManProjectiles_290
+    21300582: MegaManProjectiles_291
+    21300584: MegaManProjectiles_292
+    21300586: MegaManProjectiles_293
+    21300588: MegaManProjectiles_294
+    21300590: MegaManProjectiles_295
+    21300592: MegaManProjectiles_296
+    21300594: MegaManProjectiles_297
+    21300596: MegaManProjectiles_298
+    21300598: MegaManProjectiles_299
+    21300600: MegaManProjectiles_300
+    21300602: MegaManProjectiles_301
+    21300604: MegaManProjectiles_302
+    21300606: MegaManProjectiles_303
+    21300608: MegaManProjectiles_304
+    21300610: MegaManProjectiles_305
+    21300612: MegaManProjectiles_306
+    21300614: MegaManProjectiles_307
+    21300616: MegaManProjectiles_308
+    21300618: MegaManProjectiles_309
+    21300620: MegaManProjectiles_310
+    21300622: MegaManProjectiles_311
+    21300624: MegaManProjectiles_312
+    21300626: MegaManProjectiles_313
+    21300628: MegaManProjectiles_314
+    21300630: MegaManProjectiles_315
+    21300632: MegaManProjectiles_316
+    21300634: MegaManProjectiles_317
+    21300636: MegaManProjectiles_318
+    21300638: MegaManProjectiles_319
+    21300640: MegaManProjectiles_320
+    21300642: MegaManProjectiles_321
+    21300644: MegaManProjectiles_322
+    21300646: MegaManProjectiles_323
+    21300648: MegaManProjectiles_324
+    21300650: MegaManProjectiles_325
+    21300652: MegaManProjectiles_326
+    21300654: MegaManProjectiles_327
+    21300656: MegaManProjectiles_328
+    21300658: MegaManProjectiles_329
+    21300660: MegaManProjectiles_330
+    21300662: MegaManProjectiles_331
+    21300664: MegaManProjectiles_332
+    21300666: MegaManProjectiles_333
+    21300668: MegaManProjectiles_334
+    21300670: MegaManProjectiles_335
+    21300672: MegaManProjectiles_336
+    21300674: MegaManProjectiles_337
+    21300676: MegaManProjectiles_338
+    21300678: MegaManProjectiles_339
+    21300680: MegaManProjectiles_340
+    21300682: MegaManProjectiles_341
+    21300684: MegaManProjectiles_342
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: MegaManProjectiles_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 530
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaManProjectiles_1
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 530
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaManProjectiles_2
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 530
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaManProjectiles_3
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 528
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaManProjectiles_4
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 530
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaManProjectiles_5
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 530
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaManProjectiles_6
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 530
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaManProjectiles_7
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 513
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaManProjectiles_8
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 513
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaManProjectiles_9
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 513
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaManProjectiles_10
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 513
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaManProjectiles_11
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 513
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaManProjectiles_12
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 513
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaManProjectiles_13
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 513
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaManProjectiles_14
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 513
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaManProjectiles_15
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 513
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaManProjectiles_16
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 511
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaManProjectiles_17
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 511
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaManProjectiles_18
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 514
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaManProjectiles_19
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 511
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaManProjectiles_20
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 511
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaManProjectiles_21
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 510
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaManProjectiles_22
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 489
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaManProjectiles_23
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 489
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaManProjectiles_24
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 489
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaManProjectiles_25
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 489
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaManProjectiles_26
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 489
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaManProjectiles_27
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 487
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaManProjectiles_28
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 489
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaManProjectiles_29
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 489
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaManProjectiles_30
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 489
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaManProjectiles_31
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 489
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaManProjectiles_32
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 489
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaManProjectiles_33
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 487
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaManProjectiles_34
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 487
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaManProjectiles_35
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 485
+        width: 33
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaManProjectiles_36
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 480
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaManProjectiles_37
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 486
+        width: 28
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaManProjectiles_38
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 488
+        width: 32
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaManProjectiles_39
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 486
+        width: 38
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaManProjectiles_40
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 481
+        width: 36
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaManProjectiles_41
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 486
+        width: 38
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaManProjectiles_42
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 484
+        width: 40
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaManProjectiles_43
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 485
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaManProjectiles_44
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 480
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaManProjectiles_45
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 484
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaManProjectiles_46
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 480
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaManProjectiles_47
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 484
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaManProjectiles_48
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 488
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaManProjectiles_49
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 480
+        width: 43
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaManProjectiles_50
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 442
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaManProjectiles_51
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 442
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaManProjectiles_52
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 442
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaManProjectiles_53
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 442
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaManProjectiles_54
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 442
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaManProjectiles_55
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 442
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaManProjectiles_56
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 440
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaManProjectiles_57
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 442
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaManProjectiles_58
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 442
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaManProjectiles_59
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 442
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaManProjectiles_60
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 442
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaManProjectiles_61
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 442
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaManProjectiles_62
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 440
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaManProjectiles_63
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 442
+        width: 22
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaManProjectiles_64
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 434
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaManProjectiles_65
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 436
+        width: 23
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaManProjectiles_66
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 428
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaManProjectiles_67
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 432
+        width: 27
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaManProjectiles_68
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 428
+        width: 40
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaManProjectiles_69
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 434
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaManProjectiles_70
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 430
+        width: 24
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaManProjectiles_71
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 430
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaManProjectiles_72
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 431
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaManProjectiles_73
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 430
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaManProjectiles_74
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 439
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaManProjectiles_75
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 440
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaManProjectiles_76
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 438
+        width: 9
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaManProjectiles_77
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 438
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaManProjectiles_78
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 442
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaManProjectiles_79
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 428
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaManProjectiles_80
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 428
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaManProjectiles_81
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 385
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaManProjectiles_82
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 385
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaManProjectiles_83
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 385
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaManProjectiles_84
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 385
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaManProjectiles_85
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 385
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaManProjectiles_86
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 385
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaManProjectiles_87
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 383
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaManProjectiles_88
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 385
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaManProjectiles_89
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 385
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaManProjectiles_90
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 385
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaManProjectiles_91
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 385
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaManProjectiles_92
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 385
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaManProjectiles_93
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 383
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaManProjectiles_94
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 385
+        width: 17
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaManProjectiles_95
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 385
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaManProjectiles_96
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 365
+        width: 15
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaManProjectiles_97
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 363
+        width: 21
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaManProjectiles_98
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 358
+        width: 31
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaManProjectiles_99
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 358
+        width: 32
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaManProjectiles_100
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 359
+        width: 24
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaManProjectiles_101
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 366
+        width: 13
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaManProjectiles_102
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 381
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaManProjectiles_103
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 382
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaManProjectiles_104
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 383
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaManProjectiles_105
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 385
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaManProjectiles_106
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 382
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaManProjectiles_107
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 381
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaManProjectiles_108
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 386
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaManProjectiles_109
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 311
+        width: 246
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaManProjectiles_110
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 322
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaManProjectiles_111
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 322
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaManProjectiles_112
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 322
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaManProjectiles_113
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 322
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaManProjectiles_114
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 322
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaManProjectiles_115
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 322
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaManProjectiles_116
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 320
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaManProjectiles_117
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 322
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaManProjectiles_118
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 322
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaManProjectiles_119
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 322
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaManProjectiles_120
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 322
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaManProjectiles_121
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 322
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaManProjectiles_122
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 320
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaManProjectiles_123
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 322
+        width: 22
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaManProjectiles_124
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 313
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaManProjectiles_125
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 327
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaManProjectiles_126
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 312
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaManProjectiles_127
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 308
+        width: 34
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaManProjectiles_128
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 308
+        width: 40
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaManProjectiles_129
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 309
+        width: 46
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaManProjectiles_130
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 315
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaManProjectiles_131
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 311
+        width: 24
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaManProjectiles_132
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 311
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaManProjectiles_133
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 312
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaManProjectiles_134
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 311
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaManProjectiles_135
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 320
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaManProjectiles_136
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 321
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaManProjectiles_137
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 319
+        width: 9
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaManProjectiles_138
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 319
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaManProjectiles_139
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 323
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaManProjectiles_140
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 309
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaManProjectiles_141
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 309
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaManProjectiles_142
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 269
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaManProjectiles_143
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 269
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaManProjectiles_144
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 269
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaManProjectiles_145
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 269
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaManProjectiles_146
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 269
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaManProjectiles_147
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 269
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaManProjectiles_148
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 267
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaManProjectiles_149
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 269
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaManProjectiles_150
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 269
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaManProjectiles_151
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 269
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaManProjectiles_152
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 269
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaManProjectiles_153
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 269
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaManProjectiles_154
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 267
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaManProjectiles_155
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 269
+        width: 17
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaManProjectiles_156
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 269
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaManProjectiles_157
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 265
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaManProjectiles_158
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 267
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaManProjectiles_159
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 261
+        width: 29
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaManProjectiles_160
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 257
+        width: 25
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaManProjectiles_161
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 261
+        width: 29
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaManProjectiles_162
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 258
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaManProjectiles_163
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 267
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaManProjectiles_164
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 267
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaManProjectiles_165
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 266
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaManProjectiles_166
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 261
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaManProjectiles_167
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 269
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaManProjectiles_168
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 261
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaManProjectiles_169
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 261
+        width: 43
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaManProjectiles_170
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 232
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaManProjectiles_171
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 232
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaManProjectiles_172
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 232
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaManProjectiles_173
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 232
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaManProjectiles_174
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 232
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaManProjectiles_175
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 232
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaManProjectiles_176
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 232
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaManProjectiles_177
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 232
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaManProjectiles_178
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 232
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaManProjectiles_179
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 230
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaManProjectiles_180
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 232
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaManProjectiles_181
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 229
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaManProjectiles_182
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 229
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaManProjectiles_183
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 228
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaManProjectiles_184
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 200
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaManProjectiles_185
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 200
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaManProjectiles_186
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 200
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaManProjectiles_187
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 200
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaManProjectiles_188
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 200
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaManProjectiles_189
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 198
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaManProjectiles_190
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 200
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaManProjectiles_191
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 200
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaManProjectiles_192
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 200
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaManProjectiles_193
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 200
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaManProjectiles_194
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 200
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaManProjectiles_195
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 198
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaManProjectiles_196
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 196
+        width: 29
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaManProjectiles_197
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 191
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaManProjectiles_198
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 197
+        width: 28
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaManProjectiles_199
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 199
+        width: 32
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaManProjectiles_200
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 197
+        width: 38
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaManProjectiles_201
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 192
+        width: 36
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaManProjectiles_202
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 197
+        width: 38
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaManProjectiles_203
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 196
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaManProjectiles_204
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 191
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaManProjectiles_205
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 195
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaManProjectiles_206
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 191
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaManProjectiles_207
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 195
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaManProjectiles_208
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 199
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaManProjectiles_209
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 191
+        width: 43
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaManProjectiles_210
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 206
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaManProjectiles_211
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 162
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaManProjectiles_212
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 162
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaManProjectiles_213
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 162
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaManProjectiles_214
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 162
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaManProjectiles_215
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 162
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaManProjectiles_216
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 162
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaManProjectiles_217
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 160
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaManProjectiles_218
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 162
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaManProjectiles_219
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 162
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaManProjectiles_220
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 162
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaManProjectiles_221
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 162
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaManProjectiles_222
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 162
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaManProjectiles_223
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 160
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaManProjectiles_224
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 162
+        width: 22
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaManProjectiles_225
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 154
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaManProjectiles_226
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 156
+        width: 23
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaManProjectiles_227
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 148
+        width: 46
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaManProjectiles_228
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 156
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaManProjectiles_229
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 166
+        width: 11
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaManProjectiles_230
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 148
+        width: 42
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaManProjectiles_231
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 154
+        width: 61
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaManProjectiles_232
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 150
+        width: 24
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaManProjectiles_233
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 149
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaManProjectiles_234
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 150
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaManProjectiles_235
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 149
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaManProjectiles_236
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 158
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaManProjectiles_237
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 159
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaManProjectiles_238
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 157
+        width: 9
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaManProjectiles_239
+      rect:
+        serializedVersion: 2
+        x: 614
+        y: 157
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaManProjectiles_240
+      rect:
+        serializedVersion: 2
+        x: 618
+        y: 161
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaManProjectiles_241
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 147
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaManProjectiles_242
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 147
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaManProjectiles_243
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 79
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaManProjectiles_244
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 75
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaManProjectiles_245
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 72
+        width: 95
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaManProjectiles_246
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 109
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaManProjectiles_247
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 108
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaManProjectiles_248
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 106
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaManProjectiles_249
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 105
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaManProjectiles_250
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 79
+        width: 37
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaManProjectiles_251
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 79
+        width: 36
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaManProjectiles_252
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 79
+        width: 37
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaManProjectiles_253
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 79
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaManProjectiles_254
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 102
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaManProjectiles_255
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 101
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaManProjectiles_256
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 106
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaManProjectiles_257
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 102
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaManProjectiles_258
+      rect:
+        serializedVersion: 2
+        x: 661
+        y: 72
+        width: 31
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaManProjectiles_259
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 106
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaManProjectiles_260
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 90
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaManProjectiles_261
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 90
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaManProjectiles_262
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 90
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaManProjectiles_263
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 90
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaManProjectiles_264
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 90
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaManProjectiles_265
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 90
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaManProjectiles_266
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 88
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaManProjectiles_267
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 90
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaManProjectiles_268
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 90
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaManProjectiles_269
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 90
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaManProjectiles_270
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 90
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaManProjectiles_271
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 90
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaManProjectiles_272
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 88
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaManProjectiles_273
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 91
+        width: 17
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaManProjectiles_274
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 91
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaManProjectiles_275
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 91
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaManProjectiles_276
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 91
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaManProjectiles_277
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 87
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaManProjectiles_278
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 91
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaManProjectiles_279
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 90
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaManProjectiles_280
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 89
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaManProjectiles_281
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 88
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaManProjectiles_282
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 76
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaManProjectiles_283
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 80
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaManProjectiles_284
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 81
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaManProjectiles_285
+      rect:
+        serializedVersion: 2
+        x: 702
+        y: 78
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaManProjectiles_286
+      rect:
+        serializedVersion: 2
+        x: 734
+        y: 79
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaManProjectiles_287
+      rect:
+        serializedVersion: 2
+        x: 764
+        y: 78
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaManProjectiles_288
+      rect:
+        serializedVersion: 2
+        x: 806
+        y: 87
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaManProjectiles_289
+      rect:
+        serializedVersion: 2
+        x: 842
+        y: 88
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaManProjectiles_290
+      rect:
+        serializedVersion: 2
+        x: 866
+        y: 86
+        width: 9
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaManProjectiles_291
+      rect:
+        serializedVersion: 2
+        x: 876
+        y: 86
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaManProjectiles_292
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 90
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaManProjectiles_293
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 75
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaManProjectiles_294
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 74
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaManProjectiles_295
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 72
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaManProjectiles_296
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 71
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaManProjectiles_297
+      rect:
+        serializedVersion: 2
+        x: 868
+        y: 76
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaManProjectiles_298
+      rect:
+        serializedVersion: 2
+        x: 883
+        y: 76
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaManProjectiles_299
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 32
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaManProjectiles_300
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 32
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaManProjectiles_301
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 32
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaManProjectiles_302
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 32
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaManProjectiles_303
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 32
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaManProjectiles_304
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 11
+        width: 24
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaManProjectiles_305
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 9
+        width: 27
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaManProjectiles_306
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 8
+        width: 33
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaManProjectiles_307
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 7
+        width: 40
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaManProjectiles_308
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 12
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaManProjectiles_309
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 14
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaManProjectiles_310
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 29
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaManProjectiles_311
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 29
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaManProjectiles_312
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 35
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaManProjectiles_313
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 35
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaManProjectiles_314
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 36
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaManProjectiles_315
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 36
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaManProjectiles_316
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 23
+        width: 23
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaManProjectiles_317
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 24
+        width: 31
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaManProjectiles_318
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 3
+        width: 37
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaManProjectiles_319
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 0
+        width: 29
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaManProjectiles_320
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 18
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaManProjectiles_321
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 20
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaManProjectiles_322
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 20
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaManProjectiles_323
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 20
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaManProjectiles_324
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 20
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaManProjectiles_325
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 20
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaManProjectiles_326
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 18
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaManProjectiles_327
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 20
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaManProjectiles_328
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 20
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaManProjectiles_329
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 20
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaManProjectiles_330
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 20
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaManProjectiles_331
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 18
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaManProjectiles_332
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 18
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaManProjectiles_333
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 18
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaManProjectiles_334
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 23
+        width: 4
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaManProjectiles_335
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 0
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaManProjectiles_336
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 12
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaManProjectiles_337
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 12
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaManProjectiles_338
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 11
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaManProjectiles_339
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 11
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaManProjectiles_340
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 10
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaManProjectiles_341
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 10
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaManProjectiles_342
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 0
+        width: 23
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
