@@ -241,6 +241,7 @@
     <Compile Include="Assets\Scripts\LevelManger.cs" />
     <Compile Include="Assets\Scripts\Mover.cs" />
     <Compile Include="Assets\Scripts\PlayerController.cs" />
+    <Compile Include="Assets\Scripts\RandomMover.cs" />
     <Compile Include="Assets\Scripts\WeaponController.cs" />
     <Compile Include="Assets\SPARTA FOLDER\SPARTA_PLANE_SCRIPT.cs" />
   </ItemGroup>
