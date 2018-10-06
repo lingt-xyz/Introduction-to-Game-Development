@@ -2,7 +2,8 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class DestroyByContact : MonoBehaviour {
+public class DestroyByContact : MonoBehaviour
+{
 
     public GameObject explosion;
     public GameObject playerExplosion;
@@ -10,8 +11,9 @@ public class DestroyByContact : MonoBehaviour {
 
     private GameController gameController;
 
-	// Use this for initialization
-	void Start () {
+    // Use this for initialization
+    void Start()
+    {
         GameObject gameControllerObject = GameObject.FindWithTag("GameController");
         if (gameControllerObject != null)
         {
@@ -21,20 +23,21 @@ public class DestroyByContact : MonoBehaviour {
         {
             Debug.Log("Cannot find 'GameController' script.");
         }
-	}
-	
-	// Update is called once per frame
-	void Update () {
-		
-	}
+    }
+
+    // Update is called once per frame
+    void Update()
+    {
+
+    }
 
     void OnTriggerEnter(Collider other)
     {
-        if(other.tag == "Boundary" || other.tag == "Enemy")
+        if (other.tag == "Boundary" || other.tag == "Enemy" || other.tag == "EnemyA" || other.tag == "EnemyB")
         {
             return;
         }
- 
+
         if (explosion != null)
         {
             Instantiate(explosion, transform.position, transform.rotation);
@@ -50,5 +53,14 @@ public class DestroyByContact : MonoBehaviour {
 
         Destroy(other.gameObject);
         Destroy(gameObject);
+
+        if (gameObject.tag == "EnemyA")
+        {
+            gameController.destroyEnemyShipA++;
+        }
+        else if (gameObject.tag == "EnemyB")
+        {
+            gameController.destroyEnemyShipB++;
+        }
     }
 }

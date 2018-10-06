@@ -4,15 +4,13 @@ using UnityEngine;
 
 public class SinMover : MonoBehaviour
 {
-
     private Transform target;
-
-    private Rigidbody rb;
+    private float time;
 
     // Use this for initialization
     void Start()
     {
-        rb = GetComponent<Rigidbody>();
+        time = 0.0f;
         GameObject player = GameObject.FindWithTag("Player");
         if (player != null)
         {
@@ -23,13 +21,13 @@ public class SinMover : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        transform.position += transform.right * -Mathf.Sin(Time.time + Mathf.PI)* 0.05f * 1f;
-        transform.Translate(transform.position += transform.right * Mathf.Sin(Time.time + Mathf.PI) * 0.01f * 1f, Space.World);
-       // transform.position = new Vector3(transform.position.x + Mathf.Sin(Time.time + Mathf.PI) * 0.1f, transform.position.y, transform.position.z);
+        var sinMove = Mathf.Sin(time + Mathf.PI) * 0.09f;
+        transform.position += Vector3.right * Mathf.Sin(time + Mathf.PI)* 0.09f;
         if (target != null)
         {
             Vector3 targetDir = target.position - transform.position;
             transform.rotation = Quaternion.LookRotation(-targetDir);
         }
+        time += Time.deltaTime;
     }
 }

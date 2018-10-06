@@ -11,6 +11,8 @@ public class GameController : MonoBehaviour
     public GameObject enemyShipA;
     public GameObject enemyShipB;
     public GameObject weaponUpgrade;
+    public int destroyEnemyShipA;
+    public int destroyEnemyShipB;
 
     public float startWait;
     public float waveWait;
@@ -33,6 +35,9 @@ public class GameController : MonoBehaviour
         // TODO
         //progressText.text = "Game Start!";
         scoreText.text = "Scroe: 0";
+        score = 0;
+        destroyEnemyShipA = 0;
+        destroyEnemyShipB = 0;
         StartCoroutine(SpawnWaves());
     }
 
@@ -66,16 +71,14 @@ public class GameController : MonoBehaviour
                     yield return new WaitForSeconds(spawnWait);
                     Instantiate(enemyShipA, new Vector3(5f, 0f, 16f), Quaternion.identity);
                     Instantiate(enemyShipA, new Vector3(-5f, 0f, 16f), Quaternion.identity);
-                    level++;
                     break;
                 // Enemy ships B: In large sinusoidal trajectories containing 5 ships
                 case 2:
                     for (int i = 0; i < 5; i++)
                     {
-                        GameObject gameObject = Instantiate(enemyShipB, new Vector3(5.0f, 0.0f, 16.0f), Quaternion.identity);
+                        GameObject gameObject = Instantiate(enemyShipB, enemyShipB.transform.position, Quaternion.identity);
                         yield return new WaitForSeconds(spawnWait);
                     }
-                    level++;
                     break;
                 case 3:
                     break;
@@ -83,9 +86,20 @@ public class GameController : MonoBehaviour
                     break;
             }
 
-
-
             yield return new WaitForSeconds(waveWait);
+
+            // Caculate score
+            if (level == 1 && destroyEnemyShipA == 5)
+            {
+                score += 500;
+                UpdateScore();
+            }
+            else if (level == 2 && destroyEnemyShipB == 5)
+            {
+                score += 1000;
+                UpdateScore();
+            }
+            level++;
 
             if (gameOver)
             {
