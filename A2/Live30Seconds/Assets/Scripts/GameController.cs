@@ -4,19 +4,22 @@ using UnityEngine;
 using UnityEngine.UI;
 using UnityEngine.SceneManagement;
 
-public class GameController : MonoBehaviour {
+public class GameController : MonoBehaviour
+{
 
-    public GameObject[] hazards;
-    public Vector3 spawnValues;
-    public int hazardCount;
-    public float spawnWait;
+    public int level;
+    public GameObject enemyShipA;
+    public GameObject enemyShipB;
+    public GameObject weaponUpgrade;
+
     public float startWait;
     public float waveWait;
-    
+
     public Text scoreText;
     public Text progressText;
- 
-    
+
+
+    private float spawnWait;
     private bool gameOver;
     private bool restart;
     private int score;
@@ -24,8 +27,10 @@ public class GameController : MonoBehaviour {
     // Use this for initialization
     void Start()
     {
+        spawnWait = 0.5f;
         gameOver = false;
         restart = false;
+        // TODO
         //progressText.text = "Game Start!";
         scoreText.text = "Scroe: 0";
         StartCoroutine(SpawnWaves());
@@ -48,14 +53,39 @@ public class GameController : MonoBehaviour {
         yield return new WaitForSeconds(startWait);
         while (true)
         {
-            for (int i = 0; i < hazardCount; i++)
+            // Level design
+
+            switch (level)
             {
-                GameObject hazard = hazards[Random.Range(0, hazards.Length)];
-                Vector3 spawnPosition = new Vector3(Random.Range(-spawnValues.x, spawnValues.x), spawnValues.y, spawnValues.z);
-                Quaternion spawnRotation = Quaternion.identity;
-                Instantiate(hazard, spawnPosition, spawnRotation);
-                yield return new WaitForSeconds(spawnWait);
+                // Leve1 1 : Enemy ships A: In triangle formations containing 5 ships
+                case 1:
+                    Instantiate(enemyShipA, new Vector3(0f, 0f, 16f), Quaternion.identity);
+                    yield return new WaitForSeconds(spawnWait);
+                    Instantiate(enemyShipA, new Vector3(2.5f, 0f, 16f), Quaternion.identity);
+                    Instantiate(enemyShipA, new Vector3(-2.5f, 0f, 16f), Quaternion.identity);
+                    yield return new WaitForSeconds(spawnWait);
+                    Instantiate(enemyShipA, new Vector3(5f, 0f, 16f), Quaternion.identity);
+                    Instantiate(enemyShipA, new Vector3(-5f, 0f, 16f), Quaternion.identity);
+                    level++;
+                    break;
+                // Enemy ships B: In large sinusoidal trajectories containing 5 ships
+                case 2:
+                    for (int i = 0; i < 5; i++)
+                    {
+                        GameObject gameObject = Instantiate(enemyShipB, new Vector3(5.0f, 0.0f, 16.0f), Quaternion.identity);
+                        Debug.Log(i + ":" + gameObject.transform.position.x);
+                        yield return new WaitForSeconds(3);
+                    }
+                    level++;
+                    break;
+                case 3:
+                    break;
+                default:
+                    break;
             }
+
+
+
             yield return new WaitForSeconds(waveWait);
 
             if (gameOver)
