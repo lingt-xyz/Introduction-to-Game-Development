@@ -23,9 +23,9 @@ public class SinMover : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        Debug.Log(transform.position.x);
-        transform.position = new Vector3(Mathf.Sin(Time.time + Mathf.PI / 2) * 5, transform.position.y, transform.position.z);
-        Debug.Log(transform.position.x);
+        transform.position += transform.right * -Mathf.Sin(Time.time + Mathf.PI)* 0.05f * 1f;
+        transform.Translate(transform.position += transform.right * Mathf.Sin(Time.time + Mathf.PI) * 0.01f * 1f, Space.World);
+       // transform.position = new Vector3(transform.position.x + Mathf.Sin(Time.time + Mathf.PI) * 0.1f, transform.position.y, transform.position.z);
         if (target != null)
         {
             Vector3 targetDir = target.position - transform.position;

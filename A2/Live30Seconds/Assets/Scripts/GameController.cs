@@ -73,8 +73,7 @@ public class GameController : MonoBehaviour
                     for (int i = 0; i < 5; i++)
                     {
                         GameObject gameObject = Instantiate(enemyShipB, new Vector3(5.0f, 0.0f, 16.0f), Quaternion.identity);
-                        Debug.Log(i + ":" + gameObject.transform.position.x);
-                        yield return new WaitForSeconds(3);
+                        yield return new WaitForSeconds(spawnWait);
                     }
                     level++;
                     break;
