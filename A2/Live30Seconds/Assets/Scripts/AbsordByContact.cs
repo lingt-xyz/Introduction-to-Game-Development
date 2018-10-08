@@ -5,10 +5,11 @@ using UnityEngine;
 public class AbsordByContact : MonoBehaviour {
     
     private PlayerController playerController;
-
+    private AudioSource audioSource;
     // Use this for initialization
     void Start()
     {
+        audioSource = GetComponent<AudioSource>();
         GameObject player = GameObject.FindWithTag("Player");
         if (player != null)
         {
@@ -30,6 +31,7 @@ public class AbsordByContact : MonoBehaviour {
     {
         if (other.tag == "Player")
         {
+            audioSource.Play();
             Destroy(gameObject);
             playerController.Upgrade();
         }

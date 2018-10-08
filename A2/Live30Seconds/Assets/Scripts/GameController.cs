@@ -26,6 +26,7 @@ public class GameController : MonoBehaviour
 
     private float spawnWait;
     private bool gameOver;
+    private bool gameEnd;
     private bool restart;
     private int score;
 
@@ -34,6 +35,7 @@ public class GameController : MonoBehaviour
     {
         spawnWait = 0.5f;
         gameOver = false;
+        gameEnd = false;
         restart = false;
         // TODO
         //progressText.text = "Game Start!";
@@ -79,7 +81,7 @@ public class GameController : MonoBehaviour
                 // Enemy ships B: In large sinusoidal trajectories containing 5 ships
                 case 2:
                     Instantiate(weaponUpgrade, weaponUpgrade.transform.position, Quaternion.identity);
-                    yield return new WaitForSeconds(2.0f);
+                    yield return new WaitForSeconds(3.0f);
                     for (int i = 0; i < 5; i++)
                     {
                         GameObject gameObject = Instantiate(enemyShipB, enemyShipB.transform.position, Quaternion.identity);
@@ -88,7 +90,7 @@ public class GameController : MonoBehaviour
                     break;
                 case 3:
                     Instantiate(weaponUpgrade, weaponUpgrade.transform.position, Quaternion.identity);
-                    yield return new WaitForSeconds(2.0f);
+                    yield return new WaitForSeconds(3.0f);
                     healthBar.gameObject.SetActive(true);
                     Instantiate(boss, new Vector3(0f, 0f, 12f), Quaternion.identity);
                     break;
@@ -113,9 +115,14 @@ public class GameController : MonoBehaviour
 
             if (gameOver)
             {
-                progressText.text = "Press 'R' for Restart";
+                //progressText.text = "Press 'R' for Restart";
+                SceneManager.LoadScene("Main");
                 restart = true;
                 break;
+            }else if (gameEnd)
+            {
+                progressText.text = "Press 'R' for Restart";
+                restart = true;
             }
         }
     }
@@ -123,7 +130,7 @@ public class GameController : MonoBehaviour
     internal void Win()
     {
         progressText.text = "You Win!";
-        gameOver = true;
+        gameEnd = true;
     }
 
     public void AddScore(int newScoreValue)

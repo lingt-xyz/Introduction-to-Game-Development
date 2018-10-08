@@ -29,10 +29,13 @@ public class PlayerController : MonoBehaviour
 
     private GameController gameController;
 
+    public bool started;
+
 
     // Use this for initialization
     void Start()
     {
+        started = false;
         GameObject gameControllerObject = GameObject.FindWithTag("GameController");
         if (gameControllerObject != null)
         {
@@ -50,16 +53,29 @@ public class PlayerController : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        if (Input.GetButton("Fire1") && Time.time > nextFire)
+        started = true;
+        if (started)
         {
-            nextFire = Time.time + fireRate;
-            StartCoroutine(Fire(shotSpawn));
-            if (weaponLevel >= 3)
+            if (Input.GetButton("Fire1") && Time.time > nextFire)
             {
-                StartCoroutine(Fire(shotSpawn1));
-                StartCoroutine(Fire(shotSpawn2));
+                nextFire = Time.time + fireRate;
+                StartCoroutine(Fire(shotSpawn));
+                if (weaponLevel >= 3)
+                {
+                    StartCoroutine(Fire(shotSpawn1));
+                    StartCoroutine(Fire(shotSpawn2));
+                }
             }
         }
+        else
+        {
+            transform.Translate(5 * Vector3.up * Time.deltaTime);
+            if(transform.position.y >= 0.0f)
+            {
+                started = true;
+            }
+        }
+        
     }
 
     IEnumerator Fire(GameObject spawn)
@@ -99,18 +115,21 @@ public class PlayerController : MonoBehaviour
 
     void FixedUpdate()
     {
-        float moveHorizontal = Input.GetAxis("Horizontal");
-        float moveVertical = Input.GetAxis("Vertical");
-        var movemont = new Vector3(moveHorizontal, 0.0f, moveVertical);
-        rb.velocity = movemont * speed;
+        if (started)
+        {
+            float moveHorizontal = Input.GetAxis("Horizontal");
+            float moveVertical = Input.GetAxis("Vertical");
+            var movemont = new Vector3(moveHorizontal, 0.0f, moveVertical);
+            rb.velocity = movemont * speed;
 
-        rb.position = new Vector3
-        (
-            Mathf.Clamp(rb.position.x, boundary.xMin, boundary.xMax),
-            0.0f,
-            Mathf.Clamp(rb.position.z, boundary.zMin, boundary.zMax)
-        );
+            rb.position = new Vector3
+            (
+                Mathf.Clamp(rb.position.x, boundary.xMin, boundary.xMax),
+                0.0f,
+                Mathf.Clamp(rb.position.z, boundary.zMin, boundary.zMax)
+            );
 
-        rb.rotation = Quaternion.Euler(0.0f, 0.0f, rb.velocity.x * -tilt);
+            rb.rotation = Quaternion.Euler(0.0f, 0.0f, rb.velocity.x * -tilt);
+        }
     }
 }
