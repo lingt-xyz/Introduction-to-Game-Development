@@ -233,18 +233,22 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\Scripts\BGScroller.cs" />
+    <Compile Include="Assets\Scripts\BossController.cs" />
+    <Compile Include="Assets\Scripts\BossCore.cs" />
     <Compile Include="Assets\Scripts\DestroyByBoundary.cs" />
     <Compile Include="Assets\Scripts\DestroyByContact.cs" />
+    <Compile Include="Assets\Scripts\DestroyByHit.cs" />
     <Compile Include="Assets\Scripts\DestroyByTime.cs" />
     <Compile Include="Assets\Scripts\EvasiveManeuver.cs" />
     <Compile Include="Assets\Scripts\GameController.cs" />
+    <Compile Include="Assets\Scripts\LeftWeakPoint.cs" />
     <Compile Include="Assets\Scripts\LevelManger.cs" />
     <Compile Include="Assets\Scripts\Mover.cs" />
     <Compile Include="Assets\Scripts\PlayerController.cs" />
     <Compile Include="Assets\Scripts\RandomMover.cs" />
+    <Compile Include="Assets\Scripts\RightWeakPoint.cs" />
     <Compile Include="Assets\Scripts\SinMover.cs" />
     <Compile Include="Assets\Scripts\WeaponController.cs" />
-    <Compile Include="Assets\SPARTA FOLDER\SPARTA_PLANE_SCRIPT.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <Target Name="GenerateTargetFrameworkMonikerAttribute" />

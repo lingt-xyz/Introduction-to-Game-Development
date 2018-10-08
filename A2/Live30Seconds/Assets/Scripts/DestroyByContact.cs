@@ -33,7 +33,7 @@ public class DestroyByContact : MonoBehaviour
 
     void OnTriggerEnter(Collider other)
     {
-        if (other.tag == "Boundary" || other.tag == "Enemy" || other.tag == "EnemyA" || other.tag == "EnemyB")
+        if (other.tag == "Boundary" || other.tag == "Enemy" || other.tag == "EnemyA" || other.tag == "EnemyB" || other.tag == "Shield")
         {
             return;
         }
@@ -43,6 +43,12 @@ public class DestroyByContact : MonoBehaviour
             Instantiate(explosion, transform.position, transform.rotation);
         }
 
+        if (gameObject.tag == "Shield")
+        {
+            // show effect
+            Destroy(other.gameObject);
+            return;
+        }
         if (other.tag == "Player")
         {
             Instantiate(playerExplosion, other.transform.position, other.transform.rotation);
