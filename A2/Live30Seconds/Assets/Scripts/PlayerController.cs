@@ -18,7 +18,7 @@ public class PlayerController : MonoBehaviour
     public GameObject shot;
     public GameObject shotSpawn;
     public float fireRate;
-
+    public GameObject playerExplosion;
     private float nextFire;
     private AudioSource audioSource;
     private Rigidbody rb;
@@ -129,6 +129,22 @@ public class PlayerController : MonoBehaviour
             );
 
             rb.rotation = Quaternion.Euler(0.0f, 0.0f, rb.velocity.x * -tilt);
+        }
+    }
+
+    void OnTriggerEnter(Collider other)
+    {
+        
+        if (other.tag == "Bolt")
+        {
+            Downgrade();
+            if (weaponLevel == 0)
+            {
+                Instantiate(playerExplosion, other.transform.position, other.transform.rotation);
+                gameController.GameOver();
+                Destroy(gameObject);
+            }
+            Destroy(other.gameObject);
         }
     }
 }
