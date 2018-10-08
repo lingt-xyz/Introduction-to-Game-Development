@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
 using UnityEngine.SceneManagement;
+using System;
 
 public class GameController : MonoBehaviour
 {
@@ -77,6 +78,8 @@ public class GameController : MonoBehaviour
                     break;
                 // Enemy ships B: In large sinusoidal trajectories containing 5 ships
                 case 2:
+                    Instantiate(weaponUpgrade, weaponUpgrade.transform.position, Quaternion.identity);
+                    yield return new WaitForSeconds(2.0f);
                     for (int i = 0; i < 5; i++)
                     {
                         GameObject gameObject = Instantiate(enemyShipB, enemyShipB.transform.position, Quaternion.identity);
@@ -84,6 +87,8 @@ public class GameController : MonoBehaviour
                     }
                     break;
                 case 3:
+                    Instantiate(weaponUpgrade, weaponUpgrade.transform.position, Quaternion.identity);
+                    yield return new WaitForSeconds(2.0f);
                     healthBar.gameObject.SetActive(true);
                     Instantiate(boss, new Vector3(0f, 0f, 12f), Quaternion.identity);
                     break;
@@ -113,6 +118,12 @@ public class GameController : MonoBehaviour
                 break;
             }
         }
+    }
+
+    internal void Win()
+    {
+        progressText.text = "You Win!";
+        gameOver = true;
     }
 
     public void AddScore(int newScoreValue)

@@ -56,6 +56,7 @@ public class BossCore : MonoBehaviour {
             if (hit >= maxHit)
             {
                 bossController.Dead();
+                gameController.Win();
             }
             else
             {
