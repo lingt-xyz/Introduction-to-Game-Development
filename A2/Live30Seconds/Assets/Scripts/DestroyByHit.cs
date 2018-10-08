@@ -102,11 +102,6 @@ public class DestroyByHit : MonoBehaviour
                 rightHit++;
                 Debug.Log("Right was hit: " + rightHit);
             }
-            //else if (colliderId == shieldCollider.GetInstanceID())
-            {
-                //Debug.Log("Shield was hit!");
-                // show effect
-            }
         }
 
     }

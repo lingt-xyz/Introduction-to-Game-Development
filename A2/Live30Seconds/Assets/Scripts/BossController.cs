@@ -17,7 +17,7 @@ public class BossController : MonoBehaviour
     public float fireRate;
     public float delay;
 
-    public Slider healthBar;
+    private Slider healthBar;
 
     private AudioSource audioSource;
 
@@ -31,6 +31,8 @@ public class BossController : MonoBehaviour
         coreHit = 0;
         timer = 0;
         condition = false;
+
+        healthBar = GameObject.FindWithTag("HealthBar").GetComponent<Slider>();
 
         audioSource = GetComponent<AudioSource>();
         InvokeRepeating("Fire", delay, fireRate);

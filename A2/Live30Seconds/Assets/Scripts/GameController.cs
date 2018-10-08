@@ -11,6 +11,7 @@ public class GameController : MonoBehaviour
     public GameObject enemyShipA;
     public GameObject enemyShipB;
     public GameObject weaponUpgrade;
+    public GameObject boss;
     public int destroyEnemyShipA;
     public int destroyEnemyShipB;
 
@@ -19,6 +20,7 @@ public class GameController : MonoBehaviour
 
     public Text scoreText;
     public Text progressText;
+    public Slider healthBar;
 
 
     private float spawnWait;
@@ -38,6 +40,7 @@ public class GameController : MonoBehaviour
         score = 0;
         destroyEnemyShipA = 0;
         destroyEnemyShipB = 0;
+        healthBar.gameObject.SetActive(false);
         StartCoroutine(SpawnWaves());
     }
 
@@ -81,6 +84,8 @@ public class GameController : MonoBehaviour
                     }
                     break;
                 case 3:
+                    healthBar.gameObject.SetActive(true);
+                    Instantiate(boss, new Vector3(0f, 0f, 12f), Quaternion.identity);
                     break;
                 default:
                     break;
