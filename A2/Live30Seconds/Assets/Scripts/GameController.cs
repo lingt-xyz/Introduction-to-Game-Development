@@ -84,7 +84,7 @@ public class GameController : MonoBehaviour
                     yield return new WaitForSeconds(3.0f);
                     for (int i = 0; i < 5; i++)
                     {
-                        GameObject gameObject = Instantiate(enemyShipB, enemyShipB.transform.position, Quaternion.identity);
+                        //GameObject gameObject = Instantiate(enemyShipB, enemyShipB.transform.position, Quaternion.identity);
                         yield return new WaitForSeconds(spawnWait);
                     }
                     break;
@@ -92,7 +92,7 @@ public class GameController : MonoBehaviour
                     Instantiate(weaponUpgrade, weaponUpgrade.transform.position, Quaternion.identity);
                     yield return new WaitForSeconds(3.0f);
                     healthBar.gameObject.SetActive(true);
-                    Instantiate(boss, new Vector3(0f, 0f, 12f), Quaternion.identity);
+                    //Instantiate(boss, new Vector3(0f, 0f, 12f), Quaternion.identity);
                     break;
                 default:
                     break;

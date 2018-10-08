@@ -80,7 +80,6 @@ public class PlayerController : MonoBehaviour
 
     IEnumerator Fire(GameObject spawn)
     {
-        Debug.Log("Weapon Levle: " + weaponLevel);
         Instantiate(shot, spawn.transform.position, spawn.transform.rotation);
         if (weaponLevel >= 2)
         {
