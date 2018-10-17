@@ -10,4 +10,14 @@ public class SideBumper : MonoBehaviour
     //       Remember to use ForceMode.Impulse!
 
     // Can be done in 1 line of code in an if-statement in a function
+
+    public float bumperForce;
+
+    void OnCollisionEnter(Collision col)
+    {
+        if (col.collider.tag == "Ball")
+        {
+            col.rigidbody.AddForce(bumperForce * transform.forward, ForceMode.Impulse);
+        }
+    }
 }

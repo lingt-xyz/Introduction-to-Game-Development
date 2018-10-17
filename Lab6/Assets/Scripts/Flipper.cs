@@ -1,7 +1,7 @@
 ﻿using UnityEngine;
 using System.Collections;
 
-public class ApplyForceAtOffset : MonoBehaviour
+public class Flipper : MonoBehaviour
 {
     [SerializeField]
     float mForce;
@@ -15,14 +15,16 @@ public class ApplyForceAtOffset : MonoBehaviour
     [SerializeField]
     Vector3 mOffset;
 
-    Rigidbody mRigidbody;
+    private Rigidbody mRigidbody;
+    private HingeJoint hinge;
 
     void Awake()
     {
         mRigidbody = GetComponent<Rigidbody>();
+        hinge = GetComponent<HingeJoint>();
     }
 
-    void FixedUpdate ()
+    void FixedUpdate()
     {
         // TODO: Detect player's input (You can use mButtonName - It's convenient, but configure it first in the inspector!)
         //       Apply the force at the appropriate direction and at the correct position (make use of mOffset)
@@ -33,5 +35,11 @@ public class ApplyForceAtOffset : MonoBehaviour
         //                What about its World Space forward direction? Is this always the same?
 
         // Can be done in 2 lines of code
+
+        if (Input.GetButton(mButtonName))
+        {
+            var force = Input.GetButton(mButtonName) ? mForce : -mForce;
+            mRigidbody.AddForceAtPosition(mDirection.normalized * mForce, transform.position + mOffset);
+        }
     }
 }

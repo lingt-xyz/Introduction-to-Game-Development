@@ -12,7 +12,7 @@ public class Plunger : MonoBehaviour
 
     // Can be done in 1 line of code in an if-statement in a function
 
-    public float thrust;
+    public float forwardForce;
 
     private GameObject ballGameObject;
     private Rigidbody ballRigidbody;
@@ -25,11 +25,21 @@ public class Plunger : MonoBehaviour
 
     void Update()
     {
+        /*
         var plungerPos = gameObject.transform.position;
         var ballPos = ballGameObject.transform.position;
         if (plungerPos.z - ballPos.z == 0 && Mathf.Abs(plungerPos.x - ballPos.x) < 0.2 && Input.GetButtonDown("Launch"))
         {
-            ballRigidbody.AddForce(Vector3.forward * thrust, ForceMode.Impulse);
+            ballRigidbody.AddForce(Vector3.forward * forwardForce, ForceMode.Impulse);
+        }
+        */
+    }
+
+    void OnTriggerStay(Collider col)
+    {
+        if(col.tag == "Ball" && Input.GetButtonDown("Launch"))
+        {
+            col.attachedRigidbody.AddForce(forwardForce * Vector3.forward, ForceMode.Impulse);
         }
     }
 }
