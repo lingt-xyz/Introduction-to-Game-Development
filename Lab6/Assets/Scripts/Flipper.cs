@@ -41,5 +41,9 @@ public class Flipper : MonoBehaviour
             var force = Input.GetButton(mButtonName) ? mForce : -mForce;
             mRigidbody.AddForceAtPosition(mDirection.normalized * mForce, transform.position + mOffset);
         }
+        else
+        {
+            mRigidbody.AddForceAtPosition(-mDirection.normalized * mForce, transform.position + mOffset);
+        }
     }
 }
