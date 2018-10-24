@@ -40,7 +40,7 @@ public class CameraMovement : MonoBehaviour
 
         // Can be done in 1 line of code:
         // transform.position = Vector3.Lerp(...)
-
+        transform.position = Vector3.Lerp(transform.position, desiredPosition, smoothness * Time.deltaTime);
 
 
         // TODO: Smoothly rotate camera to look at target
@@ -53,6 +53,9 @@ public class CameraMovement : MonoBehaviour
         // Can be done in 2-3 lines of code
         // ... = Quaternion.LookRotation(...)
         // transform.rotation = Quaternion.Lerp(...)
+        Vector3 lookAtPosition = focusTarget.position - transform.position;
+        Quaternion desiredRotation = Quaternion.LookRotation(lookAtPosition, Vector3.up);
+        transform.rotation = Quaternion.Lerp(transform.rotation, desiredRotation, smoothness * Time.deltaTime);
     }
 
     List<Vector3> CalculatePositions()
