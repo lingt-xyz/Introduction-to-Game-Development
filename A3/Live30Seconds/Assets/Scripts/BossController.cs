@@ -38,7 +38,7 @@ public class BossController : MonoBehaviour
         audioSource = GetComponent<AudioSource>();
 
         //StartCoroutine(SpawnFire());
-        InvokeRepeating("Fire", delay, fireRate);
+        InvokeRepeating("Fire", delay, 6);
     }
 
     // Update is called once per frame
@@ -85,11 +85,12 @@ public class BossController : MonoBehaviour
 
     IEnumerator SpawnFire()
     {
-            GameObject g = Instantiate(shot, shotSpawn.position, Quaternion.Euler(0, 180, 0));
         for (int i = 0; i < 12; i++)
         {
-            yield return new WaitForSeconds(delay);
-            //g.transform.Rotate(1.0f, i * 1, 0.0f);
+            GameObject g = Instantiate(shot, shotSpawn.position, Quaternion.Euler(0.0f, 180, 0.0f));
+            g.GetComponent<CircleMover>().offset = i;
+            yield return new WaitForSeconds(0.5f);
+            //g.transform.Rotate(Mathf.Sin(i*Mathf.PI/6), Mathf.Cos(i * Mathf.PI / 6), 0.0f);
             if (audioSource != null)
             {
                 audioSource.Play();

@@ -4,16 +4,11 @@ using UnityEngine;
 
 public class DestroyByFloor : MonoBehaviour {
     public GameObject explosion;
+    private AudioSource audioSource;
     // Use this for initialization
     void Start()
     {
-
-    }
-
-    // Update is called once per frame
-    void Update()
-    {
-
+        audioSource = GetComponent<AudioSource>();
     }
 
     void OnTriggerExit(Collider other)
@@ -23,6 +18,10 @@ public class DestroyByFloor : MonoBehaviour {
         {
             GameObject explosionObject = Instantiate(explosion, other.transform.position, other.transform.rotation);
             Destroy(explosionObject, 1.0f);
+        }
+        if (audioSource != null)
+        {
+            audioSource.Play();
         }
     }
 }

@@ -78,7 +78,7 @@ public class GameController : MonoBehaviour
                     break;
                 case 2:
                     Instantiate(weaponUpgrade, weaponUpgrade.transform.position, Quaternion.identity);
-                    yield return new WaitForSeconds(3.0f);
+                    yield return new WaitForSeconds(5.0f);
                     for (var i=0; i<5; i++)
                     {
                         GameObject gameObject = Instantiate(enemyB, new Vector3(-8, 4f, 35f), Quaternion.Euler(0, 180, 0));
@@ -112,13 +112,13 @@ public class GameController : MonoBehaviour
                         }
                     }
 
-                    yield return new WaitForSeconds(3);
+                    yield return new WaitForSeconds(5.0f);
                     break;
                 case 3:
                     Instantiate(weaponUpgrade, weaponUpgrade.transform.position, Quaternion.identity);
-                    yield return new WaitForSeconds(3.0f);
+                    yield return new WaitForSeconds(5.0f);
                     healthBar.gameObject.SetActive(true);
-                    Instantiate(boss, new Vector3(0f, 4f, 20f), Quaternion.Euler(0, 180, 0));
+                    Instantiate(boss, new Vector3(0f, 3f, 25f), Quaternion.Euler(0, 180, 0));
                     yield return new WaitForSeconds(10);
                     break;
                 default:
