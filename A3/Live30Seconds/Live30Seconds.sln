@@ -1,6 +1,6 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio for Mac
+# Visual Studio 15
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Live30Seconds", "Live30Seconds.csproj", "{CE757979-AA94-24FC-C001-A1068AB3FB6E}"
 EndProject
 Global
